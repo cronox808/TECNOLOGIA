@@ -58,3 +58,4 @@ INSERT INTO "clientes"("nombres", "correro", "telefono") VALUES
 ('alejandro', 'alejandro@email.com', 876543210),
 ('juan', 'juan@email.com', 765432109),
 ('jose', 'jose@email.com', 654321098),
+
